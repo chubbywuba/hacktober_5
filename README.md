@@ -120,6 +120,7 @@ set-option -g message-command-fg colour223 #bg1
 #pane number display
 set-option -g display-panes-active-colour colour250 #fg2
 set-option -g display-panes-colour colour237 #bg1
+set-potion -g display-panes-colour colour250 #pn7
 
 #clock
 set-window-option -g clock-mode-colour colour109 #blue
